@@ -1,5 +1,5 @@
 export default function Home() {
-  let quote = "Consistency beats motivation.another try";
+
   return (
 
     <main style={{ padding: "40px", fontFamily: "Arial" }}>
