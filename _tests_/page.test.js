@@ -3,6 +3,6 @@ import Home from "../app/page";
 
 test("renders daily quote", () => {
     render(<Home />);
-    const quoteElement = screen.getByText("oshadha");
+    const quoteElement = screen.getByText("VT-5786");
     expect(quoteElement).toBeInTheDocument();
 });
