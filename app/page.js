@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main style={{ padding: "40px", fontFamily: "Arial" }}>
-      <h1>Daily Quote from oshadha testing fail from eslint 17th try</h1>
+      <h1>Daily Quote from oshadha testing fail from eslint 18th try</h1>
       <p>&quot;Consistency beats motivation.&quot;</p>
     </main>
   );
